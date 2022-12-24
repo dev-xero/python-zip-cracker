@@ -30,7 +30,7 @@ be sure to place this file in the root directory (or any folder in the root dire
 
 
 I stored my `wordlist` text file which is called passwords in the root directory. I also have a zip in the `zips/` directory which I called __secret__.  
-Executing the script in my terminal with the command
+This command executes the script if you've added python to your __PATH VARIABLES__
 ```bash
 ~ python script.py
 
