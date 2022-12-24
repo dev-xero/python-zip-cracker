@@ -46,7 +46,9 @@ as you can see, I've cracked the zip file in just under **4 mins**. It's an unus
 <img width="960" alt="extracted zip" src="https://user-images.githubusercontent.com/70282966/209449899-14fbe6c7-8417-477e-a35b-eed475865039.png">
 
 ## Disclaimer
-This project was made to learn more about python libraries and modules, it's not intended to be used in any malicious way. **You're responsible** for how you chose to use the script
+This project was made to learn more about python libraries and modules, it's not intended to be used in any malicious way. **You're responsible** for how you chose to use the script.  
+Made with python and ☕  
+### ⭐ Star this repo if you like this project
 
 
 
